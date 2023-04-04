@@ -5,7 +5,8 @@ import datetime
 import statistics
 from statistics import mode
 #Help From https://statisticsglobe.com/mode-function-statistics-module-python
-
+#Lizzi Deneen
+#2023
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
