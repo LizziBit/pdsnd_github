@@ -16,3 +16,6 @@ washington.csv
 
 ### Credits
 Udacity inspired me.
+
+###
+Name: Lizzi Deneen
