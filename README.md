@@ -1,4 +1,4 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+
 
 ### Date created
 04/04/2023
@@ -19,3 +19,13 @@ Udacity inspired me.
 
 ###
 Name: Lizzi Deneen
+
+### This project was created on 4/03 as well as the readme file!
+
+### The project is bikeshare.py
+
+### This project allows the user to filter by city and get stats about bikesharing in that city during certain days/months.
+
+### chicago.csv , new_york_city.csv, & washington.csv
+
+### Udacity Inspired me to make this project.
